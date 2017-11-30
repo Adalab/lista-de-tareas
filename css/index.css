@@ -2,11 +2,16 @@ body{
   font-family: Roboto, sans-serif;
 }
 
-h1{
+.title{
   text-align: center;
   margin: 3%;
 }
 
-.tachado{
+.task-list{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.strike{
   text-decoration: line-through;
 }
